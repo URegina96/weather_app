@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">weather app</string>
+    <string name="ShowWeather">показать погоду</string>
+    <string name="cityName">City</string>
+    <string name="tempCity">temp</string>
+</resources>
